@@ -1,5 +1,5 @@
-com\qait\beans\Welcome.class
 com\qait\beans\Employee.class
 com\qait\Spring\SpringBootRestApplication.class
 com\qait\rest\controller\WelcomeController.class
 com\qait\beans\EmployeeDOA.class
+com\qait\beans\Welcome.class
